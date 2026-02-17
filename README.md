@@ -1,4 +1,5 @@
 # 📒 Open Notes App
+project -6
 
 A simple and interactive **Notes App** built using **HTML, CSS, and JavaScript**.  
 This application allows users to create, view, edit, and delete notes, which are saved in **localStorage** so your notes persist even after refreshing the page.
